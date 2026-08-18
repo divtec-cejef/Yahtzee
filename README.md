@@ -62,6 +62,8 @@ Marquer **le maximum de points** après **5 manches** de jeu, en lançant 5 dés
 - Relancer uniquement ces positions
 - Autoriser **jusqu’à trois lancers maximum par manche**
 
+> Note : Il faut aussi prendre en compte le fait que le joueur puisse ne rien relancer, donc laissez la saisie "vide" (ou avec un 0, comme vous voulez). Dans ce cas, on ne demande plus de relancer et on sort de la boucle. (donc --> fin du programme à cet étape.)
+
 ---
 
 ### 🟦 JALON 3 — Système de scoring
